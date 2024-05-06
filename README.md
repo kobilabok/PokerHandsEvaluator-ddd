@@ -1,0 +1,1 @@
+This solution is a class library project that contains the algorithm - the "production code" - and unit tests. It follows the SOLID and DDD principles. The Xunit and FluentAssertions packages were used for unit tests. This evaluator compares two hands and determins the winner. 
